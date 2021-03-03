@@ -5,8 +5,8 @@ My interests include Deep Learning, , Linux, Cryptography , Playing Chess and  P
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on : My Intern Work
+- 🌱 I’m currently learning : Machine Learning , IOT
 - 💬 Ask me about: Research On Deep Learning , Chess
 - 📫 How to reach me: hirthickchess@gmail.com
 - 😄 Pronouns: He/Him/His
