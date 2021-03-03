@@ -3,7 +3,6 @@
 I'm Hirthickkesh P.R from Neyveli TS, India and I'm an sophomore undergrad at NIT Trichy. 
 My interests include Deep Learning, , Linux, Cryptography , Playing Chess and  Pop .
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : My Intern Work
 - 🌱 I’m currently learning : Machine Learning , IOT
