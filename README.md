@@ -9,5 +9,5 @@ My interests include Deep Learning, , Linux, Cryptography , Playing Chess and  P
 - 💬 Ask me about: Research On Deep Learning , Chess
 - 📫 How to reach me: hirthickchess@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: Knowledge and awareness are vague, and perhaps better called illusions. 
+
