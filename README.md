@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Higgy-debug/Higgy-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hirthickkesh P.R from Neyveli, India and I'm an sophomore undergrad at NIT Trichy. 
+My interests include Deep Learning, Mathematics, Linux, Cryptography , Playing Chess and English Pop Music.
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: hirthickchess@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: 
 -->
